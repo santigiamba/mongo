@@ -9,4 +9,4 @@ const ejercitoSchema = new mongoose.Schema({
 })
 const ejercito = mongoose.model('ejercito', ejercitoSchema);
 
-module.exports = ejercito;
+module.exports = Ejercito;
